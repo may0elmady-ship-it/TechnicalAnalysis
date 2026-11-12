@@ -1,8 +1,8 @@
 # Toronto Cakes Portfolio Dashboard
 
-**Student:** May Elmady (Student ID 664430675)
-**Course:** BDA400 – Data Science Tools and Techniques
-**Assignment:** Assignment 6 – Technical Analysis using R, Visualization Phase (15%)
+**Student:** May Elmady (Student ID 664430675)  
+**Course:** BDA400 – Data Science Tools and Techniques  
+**Assignment:** Assignment 6 – Technical Analysis using R, Visualization Phase (15%)  
 **Repository:** https://github.com/may0elmady-ship-it/TechnicalAnalysis (this stage is in the `Assignment6` folder)
 
 ---
